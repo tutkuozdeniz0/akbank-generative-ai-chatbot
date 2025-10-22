@@ -1,6 +1,4 @@
-"""
-CONFIG.PY - TUTKU'OZDENIZ SUPPLY CHAIN DATASET İÇİN
-"""
+
 
 import os
 from dotenv import load_dotenv
