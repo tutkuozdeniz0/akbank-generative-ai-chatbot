@@ -1,7 +1,7 @@
 """
 DATA_LOADER.PY - PDF & ZIP DESTEKLİ HUGGING FACE LOADER
 
-Özel olarak Tutku Özdeniz'in supply chain dataset'i için tasarlandı.
+
 PDF ve ZIP dosyalarını işleyebilir.
 """
 
