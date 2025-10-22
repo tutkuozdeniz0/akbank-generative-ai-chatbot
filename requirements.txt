@@ -1,9 +1,8 @@
-# Bu dosya projemizde kullanacağımız tüm kütüphaneleri içerir
-# Terminalde 'pip install -r requirements.txt' yazınca hepsi otomatik yüklenir
-
-streamlit==1.28.0          # Web arayüzü için
-google-generativeai==0.3.0  # Google Gemini AI için
-langchain==0.0.346          # RAG sistemi için
-chromadb==0.4.15           # Vektör veritabanı
-python-dotenv==1.0.0       # Gizli bilgileri yönetmek için
-pypdf==3.17.0              # PDF dosyalarını okumak için
+streamlit==1.28.0
+google-generativeai==0.3.0
+langchain==0.0.346
+chromadb==0.4.15
+python-dotenv==1.0.0
+pypdf==3.17.0
+datasets==2.14.6          # YENİ: Hugging Face datasets
+huggingface-hub==0.17.0   # YENİ: HF erişimi için
